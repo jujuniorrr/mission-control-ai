@@ -41,8 +41,7 @@ def analisar_temperatura(valor):
 
     else:
         return "CRÍTICO", 2, "Risco de superaquecimento"
-resultado = analisar_temperatura(39)
-print(resultado)
+
 
 def analisar_comunicacao(valor):
 
