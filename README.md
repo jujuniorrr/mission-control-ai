@@ -164,7 +164,8 @@ O sistema analisa os ciclos da missão, calcula o risco operacional e gera um re
 ### Relatório Final
 A imagem abaixo demonstra a execução do sistema e a geração automática do relatório final da missão.
 
-![](sistema_funcionando.png)
+<img width="573" height="272" alt="image" src="https://github.com/user-attachments/assets/6da8b0fe-a6ac-4c0f-852c-7db023c29a8c" />
+
 
 ---
 
