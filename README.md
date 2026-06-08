@@ -121,7 +121,7 @@ mission-control-ai/
 │
 ├── README.md
 ├── mission_control.py
-├── sistema_funcionando.png
+├── relatório_final.png
 
 ```
 
